@@ -1,0 +1,67 @@
+body{
+	font-size:1.4em;
+	color: #000;
+}
+
+.myrow, html, body{
+	height: 100%;
+	overflow: hidden;
+}
+
+.wrapper{
+	padding: 0 10px;
+}
+
+.content{
+	margin-left: 20px;
+}
+
+.myrow{
+	width:100%;
+	display: inline-block;
+}
+
+.mycol-1{
+	width: 48%;
+	float: left;
+	margin: 0 1%;
+	overflow-y: auto;
+	max-height: 580px;
+}
+
+.noscroll{
+	overflow: hidden;
+}
+
+@media only screen and (max-width: 800px){
+	.mycol-1{
+		width: 98%;
+		margin: 1%;
+		max-height: none;
+	}
+
+	.myrow, html, body{
+		height: auto;
+		overflow: auto;
+	}
+
+
+}
+
+.color
+{
+	background: #4183D7 none repeat scroll 0% 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

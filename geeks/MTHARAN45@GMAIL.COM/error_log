@@ -1,0 +1,14 @@
+[15-Sep-2015 21:51:43 Asia/kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/runtestcases.php on line 98
+[15-Sep-2015 21:53:28 Asia/kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/runtestcases.php on line 98
+[15-Sep-2015 23:15:24 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[15-Sep-2015 23:32:56 Asia/kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/runtestcases.php on line 98
+[16-Sep-2015 21:32:31 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[16-Sep-2015 22:19:50 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[16-Sep-2015 23:02:00 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[17-Sep-2015 10:57:39 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[17-Sep-2015 20:29:40 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[19-Sep-2015 02:04:31 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[19-Sep-2015 18:06:33 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[20-Sep-2015 14:12:40 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9
+[22-Sep-2015 23:25:31 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/runtestcases.php on line 9
+[23-Sep-2015 19:27:38 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/psgtechsoftdev/subdomain/progeeks/geeks/MTHARAN45@GMAIL.COM/c++Compiler.php on line 9

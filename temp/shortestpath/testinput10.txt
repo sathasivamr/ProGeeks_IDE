@@ -1,0 +1,1 @@
+6,U,V,W,X,Y,Z,U-V,U-X,X-Z,Y-X,W-Z,V-W
